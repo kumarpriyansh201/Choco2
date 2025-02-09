@@ -1,2 +1,1 @@
-# Choco2
-Chocolate Day
+# Chocolate-Day
